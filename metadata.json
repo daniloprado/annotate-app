@@ -1,0 +1,5 @@
+{
+  "name": "Design QA AI Assistant",
+  "description": "An AI-powered application to perform Design QA by comparing a design mockup with a live production screenshot. It identifies visual discrepancies and generates a developer-friendly report to streamline fixes.",
+  "requestFramePermissions": []
+}
